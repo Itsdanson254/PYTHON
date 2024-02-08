@@ -20,4 +20,8 @@ print(text + " " + text1)
 
 # Assignment
 # 1. Reassign a string
+
+
 # 2. Deleting string
+
+
